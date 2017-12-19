@@ -5,7 +5,7 @@ SPEC256: http://www.emulatronia.com/emusdaqui/spec256/download-eng.htm
 
 игры: http://www.emulatronia.com/emusdaqui/spec256/download-eng.htm
 
-редактор: http://kolmck.net/apps/EmuZ/EmuZWin_Rus.htm
+редактор: http://kolmck.ru/apps/EmuZ/EmuZWin_Eng.htm
 
 Демонстрационное видео:
 

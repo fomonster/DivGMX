@@ -1,6 +1,6 @@
  		DEVICE	ZXSPECTRUM48
-; -----------------------------------------------------------------[31.12.2016]
-; ReVerSE-U16 Loader (build 20161231) By MVV
+; -----------------------------------------------------------------[06.05.2018]
+; ReVerSE-U16 Loader (build 20180506) By MVV
 ; -----------------------------------------------------------------------------
 
 system_port	equ #0001	; bit2 = 0:Loader ON, 1:Loader OFF; bit0 = 0:w25q64fv, 1:cd card
@@ -975,7 +975,7 @@ key_enter
 str1	
 	db 23,0,0,17,#47,"DivGMX Ultimate",17,7,13,13
 	db "FPGA SoftCore - TSConf",13
-	db "(build 20161231) By MVV",13,13
+	db "(build 20180506) By MVV",13,13
 
 	db "Loading roms/zxevo.rom...",0
 str8
